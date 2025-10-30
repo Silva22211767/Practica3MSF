@@ -1,6 +1,6 @@
 \[!\[Open in MATLAB Online]
 
-# Práctica: Sistema musculoesquelético
+# Práctica 3: Sistema musculoesquelético
 
 ## Información de la estudiante
 
